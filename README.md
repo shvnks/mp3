@@ -3,6 +3,7 @@
 
 # Mini-Project 3 for AI
 Found at https://github.com/HunterShanks/mp3
+
 Purpose: Word2Vec model
 
 ## Installation
