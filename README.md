@@ -15,7 +15,7 @@ pip3 install -r requirements.txt
 - cd into the src directory
 - open a terminal emulator of your choice
 
-```py
+```console
 python3 main.py
 ```
 
