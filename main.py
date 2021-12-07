@@ -3,7 +3,6 @@
 # COMP-472
 
 # Importing necessary modules
-# From gensim.models import Word2Vec
 import csv
 import os
 import matplotlib.pyplot as plt
