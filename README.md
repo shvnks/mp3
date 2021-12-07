@@ -16,7 +16,7 @@ pip3 install -r requirements.txt
 - open a terminal emulator of your choice
 
 ```py
-python3 eval.py
+python3 main.py
 ```
 
 - program provides output to the screen as well as data given within the output folder for each task respectively
